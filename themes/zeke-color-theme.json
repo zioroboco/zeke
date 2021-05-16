@@ -172,6 +172,14 @@
       }
     },
     {
+      "name": "Support: dom",
+      "scope": ["support.variable.dom", "support.variable.property.dom"],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#c0b493ff"
+      }
+    },
+    {
       "name": "Variable",
       "scope": "variable",
       "settings": {
