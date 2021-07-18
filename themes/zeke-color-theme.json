@@ -85,7 +85,11 @@
     },
     {
       "name": "Function Name",
-      "scope": ["entity.name.function", "meta.function-call.makefile"],
+      "scope": [
+        "entity.name.function",
+        "meta.function-call.makefile",
+        "support.function.dom"
+      ],
       "settings": {
         "fontStyle": "",
         "foreground": "#6e897fff"
