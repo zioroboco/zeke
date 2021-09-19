@@ -88,6 +88,7 @@
       "scope": [
         "entity.name.function",
         "meta.function-call.makefile",
+        "support.function",
         "support.function.dom"
       ],
       "settings": {
