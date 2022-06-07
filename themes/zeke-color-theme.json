@@ -60,6 +60,14 @@
       }
     },
     {
+      "name": "Constant: symbol",
+      "scope": "constant.other.symbol",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#779e69ff"
+      }
+    },
+    {
       "name": "Constant escape",
       "scope": "constant.character.escape",
       "settings": {
